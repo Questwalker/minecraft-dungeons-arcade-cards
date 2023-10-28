@@ -1,0 +1,101 @@
+<tr><td>01</td><td>a0000000</td><td>Sun's Grace</td><td>Melee</td><td>Common</td></tr>
+
+
+<tr><td>04</td><td>a0030000</td><td>Heartstealer</td><td>Melee</td><td>Unique</td></tr>
+
+
+
+<tr><td>08</td><td>a0070000</td><td>Frost Scythe</td><td>Melee</td><td>Rare</td></tr>
+
+
+<tr><td>11</td><td>a00a0000</td><td>Flail</td><td>Melee</td><td>Common</td></tr>
+
+<tr><td>13</td><td>a00c0000</td><td>Nightmare's Bite</td><td>Melee</td><td>Unique</td></tr>
+<tr><td>14</td><td>a00d0000</td><td>Moon Daggers</td><td>Melee</td><td>Unique</td></tr>
+<tr><td>15</td><td>a00e0000</td><td>Fortune Spear</td><td>Melee</td><td>Rare</td></tr>
+
+<tr><td>17</td><td>a10g0000</td><td>Red Snake <a class="auxiliary">(with Poison Quiver)</a></td><td>Range</td><td>Common</td></tr>
+
+
+<tr><td>20</td><td>a10j0000</td><td>Corrupted Beacon</td><td>Range</td><td>Unique</td><td>Incredibly good for killing large amounts of mobs across the entire map.</td></tr>
+<tr><td>21</td><td>a10k0000</td><td>Auto Crossbow <a class="auxiliary">(with Rapid Fire Quiver)</a></td><td>Range</td><td>Unique</td></tr>
+
+<tr><td>23</td><td>a10m0000</td><td>Guardian Bow <a class="auxiliary">(with Ice Quiver)</a></td><td>Range</td><td>Rare</td></tr>
+
+
+
+<tr><td>27</td><td>a10q0000</td><td>Harp Crossbow <a class="auxiliary">(with Triple Shot Quiver)</a></td><td>Range</td><td>Common</td></tr>
+<tr><td>28</td><td>a20r0000</td><td>Souldancer Robe</td><td>Armor</td><td>Common</td></tr>
+<tr><td>29</td><td>a20s0000</td><td>Battle Robe</td><td>Armor</td><td>Common</td></tr>
+
+
+<tr><td>32</td><td>a20v0000</td><td>Highland Armor</td><td>Armor</td><td>Common</td></tr>
+<tr><td>33</td><td>a20w0000</td><td>Renegade Armor</td><td>Armor</td><td>Rare</td></tr>
+<tr><td>34</td><td>a20x0000</td><td>Spider Armor</td><td>Armor</td><td>Rare</td></tr>
+<tr><td>35</td><td>a20y0000</td><td>Full Metal Armor</td><td>Armor</td><td>Rare</td></tr>
+<tr><td>36</td><td>a20z0000</td><td>Ember Robe</td><td>Armor</td><td>Rare</td></tr>
+<tr><td>37</td><td>a20A0000</td><td>Ender Armor</td><td>Armor</td><td>Unique</td></tr>
+<tr><td>38</td><td>a20B0000</td><td>Titan's Shroud</td><td>Armor</td><td>Unique</td></tr>
+<tr><td>39</td><td>a20C0000</td><td>Frost Bite</td><td>Armor</td><td>Unique</td></tr>
+
+
+<tr><td>42</td><td>a30F0000</td><td>Elaine</td><td>Skin</td><td>Unique</td></tr>
+
+<tr><td>44</td><td>a30H0000</td><td>Violet</td><td>Skin</td><td>Common</td></tr>
+<tr><td>45</td><td>a30I0000</td><td>Ivy</td><td>Skin</td><td>Rare</td></tr>
+<tr><td>46</td><td>a40J0000</td><td>Meadow</td><td>Skin</td><td>Unique</td></tr>
+<tr><td>47</td><td>a40K0000</td><td>Sven</td><td>Skin</td><td>Common</td></tr>
+<tr><td>48</td><td>a40L0000</td><td>Sam</td><td>Skin</td><td>Common</td></tr>
+<tr><td>49</td><td>a40M0000</td><td>Elan</td><td>Skin</td><td>Common</td></tr>
+
+
+
+<tr><td>53</td><td>a40Q0000</td><td>Wolf</td><td>Pet</td><td>Rare</td></tr>
+<tr><td>54</td><td>a40R0000</td><td>Polar Bear</td><td>Pet</td><td>Unique</td></tr>
+<tr><td>55</td><td>a40S0000</td><td>Pig</td><td>Pet</td><td>Common</td></tr>
+<tr><td>56</td><td>a40T0000</td><td>Llama</td><td>Pet</td><td>Rare</td></tr>
+<tr><td>57</td><td>a40U0000</td><td>Fox</td><td>Pet</td><td>Common</td></tr>
+
+<tr><td>59</td><td>a40W0000</td><td>Ocelot</td><td>Pet</td><td>Rare</td></tr>
+<tr><td>60</td><td>a40X0000</td><td>Chicken</td><td>Pet</td><td>Common</td></tr>
+
+===
+
+<tr><td>61</td><td>b00Y0000</td><td>Encrusted Anchor</td><td>Melee</td><td>Unique</td></tr>
+<tr><td>62</td><td>b00Z0000</td><td>Battlestaff of Terror</td><td>Melee</td><td>Unique</td></tr>
+<tr><td>63</td><td>b0100000</td><td>Hawkbrand</td><td>Melee</td><td>Common</td></tr>
+
+<tr><td>65</td><td>b0120000</td><td>The Last Laugh</td><td>Melee</td><td>Rare</td></tr>
+<tr><td>66</td><td>b0130000</td><td>Vine Whip</td><td>Melee</td><td>Rare</td></tr>
+
+<tr><td>68</td><td>b0150000</td><td>Whispering Spear</td><td>Melee</td><td>Common</td></tr>
+
+<tr><td>70</td><td>b1170000</td><td>Nautical Crossbow <a class="auxiliary">(with Harpoon Quiver)</a></td><td>Range</td><td>Common</td></tr>
+<tr><td>71</td><td>b1180000</td><td>Web Bow <a class="auxiliary">(with Spider Quiver)</a></td><td>Range</td><td>Rare</td></tr>
+<tr><td>72</td><td>b1190000</td><td>Bonebow <a class="auxiliary">(with Growing Quiver)</a></td><td>Range</td><td>Common</td></tr>
+<tr><td>73</td><td>b11a0000</td><td>Purple Storm <a class="auxiliary">(with Quick Quiver)</a></td><td>Range</td><td>Rare</td></tr>
+
+
+
+<tr><td>77</td><td>b21e0000</td><td>Squid Armor</td><td>Armor</td><td>Rare</td></tr>
+
+<tr><td>79</td><td>b21g0000</td><td>Nimble Turtle Armor</td><td>Armor</td><td>Rare</td></tr>
+<tr><td>80</td><td>b21h0000</td><td>Archer's Armor</td><td>Armor</td><td>Common</td></tr>
+<tr><td>81</td><td>b21i0000</td><td>Ghost Kingler</td><td>Armor</td><td>Unique</td></tr>
+<tr><td>82</td><td>b21j0000</td><td>Phantom Armor</td><td>Armor</td><td>Rare</td></tr>
+
+
+
+<tr><td>86</td><td>b31n0000</td><td>Baako</td><td>Skin</td><td>Common</td></tr>
+
+
+<tr><td>89</td><td>b31q0000</td><td>Fuego</td><td>Skin</td><td>Common</td></tr>
+<tr><td>90</td><td>b31r0000</td><td>The Kelptomaniac</td><td>Skin</td><td>Unique</td></tr>
+
+<tr><td>92</td><td>b31t0000</td><td>Wargen</td><td>Skin</td><td>Rare</td></tr>
+
+
+
+<tr><td>96</td><td>b41x0000</td><td>Bee</td><td>Pet</td><td>Rare</td></tr>
+
+<tr><td>98</td><td>b41z0000</td><td>Iron Golem</td><td>Pet</td><td>Unique</td></tr>
