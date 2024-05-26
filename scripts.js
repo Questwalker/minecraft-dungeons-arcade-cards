@@ -1,28 +1,29 @@
 $(document).ready(function(){
     $('table td').each(function(){
+        let text = $(this).text()
         // Types
-        if ($(this).text() == 'Melee') {
+        if (text == 'Melee') {
             $(this).css('color', '#fe1c12');
-        } else if ($(this).text() == 'Range') {
+        } else if (text == 'Range') {
             $(this).css('color', '#bc12fd');
-        } else if ($(this).text() == 'Armor') {
+        } else if (text == 'Armor') {
             $(this).css('color', '#188eff');
-        } else if ($(this).text() == 'Pet') {
+        } else if (text == 'Pet') {
             $(this).css('color', '#80e125');
-        } else if ($(this).text() == 'Skin') {
+        } else if (text == 'Skin') {
             $(this).css('color', '#fee000');
         }
         // Rarities
-        else if ($(this).text() == 'Common') {
+        else if (text == 'Common') {
             $(this).css('color', '#dad5d1');
-        } else if ($(this).text() == 'Rare') {
+        } else if (text == 'Rare') {
             $(this).css('color', '#abddaa');
-        } else if ($(this).text() == 'Unique') {
+        } else if (text == 'Unique') {
             $(this).css('color', '#cc5d15');
         }
         // code-128
         
-        else if ((($(this).text().length) == 8) && !($(this).text().indexOf(' ') >= 0)) {
+        else if ((text.length == 8) && !(text.indexOf(' ') >= 0)) {
             $(this).css('font-family', 'consolas');
         }
     });

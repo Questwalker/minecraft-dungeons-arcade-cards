@@ -1,12 +1,12 @@
 @font-face {
-    font-family: Rubik;
+    font-family: "rubik";
     src: local("Rubik"), local("Rubik-Regular"), url(Rubik-VariableFont_wgh.ttf) format("truetype");
 }
 
 html {
     background-color: #0d1117;
     color: #c9d1d9;
-    font-family: rubik, helvetica, arial, sans-serif;
+    font-family: "rubik", helvetica, arial, sans-serif;
     color-scheme: dark light;
 }
 
