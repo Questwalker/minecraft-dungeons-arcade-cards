@@ -35,7 +35,7 @@ $(document).ready(function(){
         var isInput = $th.hasClass('input');
         var column = $th.index();
         var $table = $th.closest('table');
-        var isNum= $table.find('tbody > tr').children('td').eq(column).hasClass('num');
+        var isNum = $table.find('tbody > tr').children('td').eq(column).hasClass('num');
         var rows = $table.find('tbody > tr').get();
         rows.sort(function(rowA,rowB) {
         if (isInput) {
