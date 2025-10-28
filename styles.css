@@ -1,6 +1,8 @@
 @font-face {
     font-family: "rubik";
+    font-weight: 300 900;
     src: local("Rubik"), local("Rubik-Regular"), url(Rubik-VariableFont_wgh.ttf) format("truetype");
+    font-style: normal;
 }
 
 html {

@@ -13,6 +13,12 @@ $(document).ready(function(){
         } else if (text == 'Skin') {
             $(this).css('color', '#fee000');
         }
+        // Special
+        else if (text == '?') {
+            $(this).css('color', '#666666');
+        } else if (text == '') {
+            $(this).css('border-style', 'none');
+        }
         // Rarities
         else if (text == 'Common') {
             $(this).css('color', '#dad5d1');
@@ -21,8 +27,7 @@ $(document).ready(function(){
         } else if (text == 'Unique') {
             $(this).css('color', '#cc5d15');
         }
-        // code-128
-        
+        // Code-128
         else if ((text.length == 8) && !(text.indexOf(' ') >= 0)) {
             $(this).css('font-family', 'consolas');
         }
