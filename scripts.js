@@ -13,12 +13,6 @@ $(document).ready(function(){
         } else if (text == 'Skin') {
             $(this).css('color', '#fee000');
         }
-        // Special
-        else if (text == '?') {
-            $(this).css('color', '#666666');
-        } else if (text == '') {
-            $(this).css('border-style', 'none');
-        }
         // Rarities
         else if (text == 'Common') {
             $(this).css('color', '#dad5d1');
@@ -26,6 +20,12 @@ $(document).ready(function(){
             $(this).css('color', '#abddaa');
         } else if (text == 'Unique') {
             $(this).css('color', '#cc5d15');
+        }
+        // Special
+        else if (text == '?') {
+            $(this).css('color', '#666666');
+        } else if (text == '') {
+            $(this).css('border-style', 'none');
         }
         // Code-128
         else if ((text.length == 8) && !(text.indexOf(' ') >= 0)) {
@@ -43,15 +43,15 @@ $(document).ready(function(){
         var isNum = $table.find('tbody > tr').children('td').eq(column).hasClass('num');
         var rows = $table.find('tbody > tr').get();
         rows.sort(function(rowA,rowB) {
-        if (isInput) {
-            var keyA = $(rowA).children('td').eq(column).children('input').val().toUpperCase();
-            var keyB = $(rowB).children('td').eq(column).children('input').val().toUpperCase();
-        } else {
-            var keyA = $(rowA).children('td').eq(column).text().toUpperCase();
-            var keyB = $(rowB).children('td').eq(column).text().toUpperCase();
-        }
-        if (isSelected) return OrderBy(keyA,keyB,isNum);
-            return OrderBy(keyB,keyA,isNum);
+            if (isInput) {
+                var keyA = $(rowA).children('td').eq(column).children('input').val().toUpperCase();
+                var keyB = $(rowB).children('td').eq(column).children('input').val().toUpperCase();
+            } else {
+                var keyA = $(rowA).children('td').eq(column).text().toUpperCase();
+                var keyB = $(rowB).children('td').eq(column).text().toUpperCase();
+            }
+            if (isSelected) return OrderBy(keyA,keyB,isNum);
+                return OrderBy(keyB,keyA,isNum);
         });
         $.each(rows, function(index,row) {
             $table.children('tbody').append(row);
