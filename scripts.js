@@ -20,6 +20,8 @@ $(document).ready(function(){
             $(this).css('color', '#abddaa');
         } else if (text == 'Unique') {
             $(this).css('color', '#cc5d15');
+        } else if (text == 'Legendary') {
+            $(this).css('color', '#fee000');
         }
         // Special
         else if (text == '?') {
